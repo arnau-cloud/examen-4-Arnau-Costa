@@ -32,7 +32,7 @@ try:
     if len(anysTraspas) < 5:
         print("No hi ha prous anys per imprimir el 5è")
     else:
-        print(anysTraspas[5])
+        print(anysTraspas[4])
 
 except:
     print("Incorrecte")
